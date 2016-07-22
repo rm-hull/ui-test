@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "name": "Cornetto",
+            "price": 1.50,
+            "description": "Cornetto is a branded frozen dessert cone manufactured by Unilever. Several variations of the product exist, ranging from milk based ice cream to vegetable fat based dessert.",
+			"url": "images/cornetto.jpg"
+        },
+        {
+            "name": "Magnum",
+            "price": 1.75,
+            "description": "Vanilla bean ice cream dipped in white chocolate.",
+			"url": "images/magnum.jpg"
+        },
+        {
+            "name": "Calippo",
+            "price": 1.00,
+            "description": "Calippo is an freezie brand owned by Unilever, and sold as part of the Heartbrand line of products in most countries, including the Wall's brand in the United Kingdom.",
+			"url": "images/calippo.jpg"
+        },
+        {
+            "name": "Fab",
+            "price": 1.00,
+            "description": "The brand Fab is an ice lolly on a stick in the United Kingdom, introduced by J. Lyons & Co. Ltd. who launched the product in 1967.",
+			"url": "images/fab.jpg"
+        },
+        {
+            "name": "Tip Top",
+            "price": 1.50,
+            "description": "Fonterra Brands (Tip Top) Ltd or commonly known simply as Tip Top ice cream, is a subsidiary of the Fonterra Co-operative Group based in Auckland, New Zealand.",
+			"url": "images/tiptop.jpg"
+        }
+    ]
+}
